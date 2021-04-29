@@ -11,7 +11,7 @@ Table of Contents
 - [License](##📋License)
 - [Contributing](##📝Contributing)
 - [Tests](##✔️Tests)
-
+- [Screenshot](##📸Screenshot)
 
 ------------
 ## 🛠️Installation
@@ -41,6 +41,8 @@ sungjk@uw.edu
 
 ------------
 ## ✔️Tests
-To test the program, please run the following:
+No Tests, all testing done through Insomnia
 
-NA
+------------
+## 📸Screenshot
+![alt text](https://raw.githubusercontent.com/sungjk77/hw13-E-Commerce-Back-End/main/Develop/assets/screenshot.JPG)
